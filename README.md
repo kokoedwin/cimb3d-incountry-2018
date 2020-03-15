@@ -1,7 +1,8 @@
 # Predict Credit Scoring from one of the Bank in South East Asia
 
 CIMB 3D Conquest In-country Indonesia 2018
-Data Hackathon for 21 hours owned by CIMB Niaga Bank.
+
+Data Hackathon for 21 hours created by CIMB Niaga Bank.
 
 We were tasked to predict which customers will miss their loan repayments based on the customer's banking data & partner telco data.
 
